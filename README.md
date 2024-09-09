@@ -22,7 +22,7 @@ This is a Best Phone Hero section built using Tailwind CSS. The website features
 
 - **Best Phone Hero Section : Desktop design**
 
-![](./Best _Phone.png)
+![](./Best_Phone.png)
 
 - **Best Phone Hero Section : Mobile design**
 
