@@ -1,6 +1,4 @@
-# Instagram Clone
-
-This project is a basic clone of Instagram's login page, created using HTML, CSS, and JavaScript. It includes a preloader, an image slider, and a login form. The design is responsive and works on various screen sizes.
+# Best Phone Hero Section - Tailwind CSS Project
 
 ## Table of contents
 
@@ -18,20 +16,22 @@ This project is a basic clone of Instagram's login page, created using HTML, CSS
 
 ## Overview
 
+This is a Best Phone Hero section built using Tailwind CSS. The website features a simple and clean design for a phone store landing page, highlighting the main product and a call-to-action for purchasing and contacting. The project implements a responsive navigation menu that adapts for different screen sizes.
+
 ### Screenshot
 
-- **Instagram Clone : Desktop design**
+- **Best Phone Hero Section : Desktop design**
 
-![](./instaAssest/insta.png)
+![](./Best _Phone.png)
 
-- **Instagram Clone : Mobile design**
+- **Best Phone Hero Section : Mobile design**
 
-![](./instaAssest/insta-mobile.png)
+![](./Best_phone_mobile.png)
 
 ### Links
 
-- Solution URL: [https://github.com/hoor23/Instagram_clone.git](https://github.com/hoor23/Instagram_clone.git)
-- Live Site URL: [https://hoor23.github.io/Instagram_clone/](https://hoor23.github.io/Instagram_clone/)
+- Solution URL: [https://github.com/hoor23/Hero_Section.git](https://github.com/hoor23/Hero_Section.git)
+- Live Site URL: [https://hoor23.github.io/Hero_Section/](https://hoor23.github.io/Hero_Section/)
 
 ## My process
 
