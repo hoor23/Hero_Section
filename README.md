@@ -30,8 +30,8 @@ This is a Best Phone Hero section built using Tailwind CSS. The website features
 
 ### Links
 
-- Solution URL: [https://github.com/hoor23/Hero_Section.git](https://github.com/hoor23/Hero_Section.git)
-- Live Site URL: [https://hoor23.github.io/Hero_Section/](https://hoor23.github.io/Hero_Section/)
+- Solution URL: [https://github.com/HooriaSaeeda/Hero_Section.git](https://github.com/HooriaSaeeda/Hero_Section.git)
+- Live Site URL: [https://hooriasaeeda.github.io/Hero_Section/](https://hooriasaeeda.github.io/Hero_Section/)
 
 ## My process
 
@@ -55,9 +55,9 @@ This is a Best Phone Hero section built using Tailwind CSS. The website features
 - Expanding the functionality of the website with more interactive components like modals and forms.
 
 ## Author
-- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
-- Github - [hoor23](https://github.com/hoor23)
-- LinkedIn - [Hoor Seyda](www.linkedin.com/in/hoor-seyda-901176222)
+- Github - [HooriaSaeeda](https://github.com/HooriaSaeeda)
+- Frontend Mentor - [HooriaSaeeda](https://www.frontendmentor.io/profile/HooriaSaeeda)
+- Linkedin - [Hoor Seyda](linkedin.com/in/hoor-seyda-901176222)
 
 ## Acknowledgments
 
